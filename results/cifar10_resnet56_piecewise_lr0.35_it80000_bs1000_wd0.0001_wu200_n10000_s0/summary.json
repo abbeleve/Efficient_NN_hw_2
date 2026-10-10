@@ -1,0 +1,8 @@
+{
+  "final_test_acc": 0.8738,
+  "best_test_acc": 0.8765,
+  "best_iter": 57200,
+  "diverged": false,
+  "iters_done": 80000,
+  "wall_time_s": 8046.5
+}
